@@ -4,7 +4,11 @@ title: "About the luckyModel package"
 author: "Weibin Huang"
 date: "`r Sys.Date()`"
 output:
-  md_document
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+    math: katex
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
