@@ -45,7 +45,7 @@ Load the pacakge
 
     library(luckyModel)
 
-Which projects were supported in `luckyModel`?
+Which projects were supported in current `luckyModel`?
 
     list_project()
 

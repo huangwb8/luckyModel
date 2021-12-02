@@ -55,7 +55,7 @@ library(luckyModel)
 ```
 
 
-Which projects were supported in `luckyModel`?
+Which projects were supported in current `luckyModel`?
 
 ```{r}
 list_project()
