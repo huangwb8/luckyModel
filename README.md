@@ -32,9 +32,7 @@ Weibin Huang (黄伟斌); <654751191@qq.com>
     # Install "devtools" package
     if (!requireNamespace("devtools", quietly = TRUE))
         install.packages("devtools")
-
-    ## Error in get(genname, envir = envir) : 找不到对象'testthat_print'
-
+        
     # Install luckyModel
     if (!requireNamespace("luckyModel", quietly = TRUE))
         devtools::install_github("huangwb8/luckyModel")

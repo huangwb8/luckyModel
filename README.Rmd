@@ -36,7 +36,7 @@ Weibin Huang (黄伟斌);  <654751191@qq.com>
 
 ## :+1: Installaton
 
-```{R}
+```
 # Install "devtools" package
 if (!requireNamespace("devtools", quietly = TRUE))
     install.packages("devtools")
