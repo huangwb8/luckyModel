@@ -13,14 +13,13 @@
 
 ## :alien: Authors
 
-Weibin Huang (黄伟斌); <654751191@qq.com>
+Weibin Huang (黄伟斌); <huangwb886@gmail.com>
 
 1.  Guangdong Provincial Key Laboratory of Digestive Cancer Research,
     The Seventh Affiliated Hospital of Sun Yat-sen University, No. 628
-    Zhenyuan Road, Shenzhen, 518107, Guangdong, People’s Republic of
-    China. Digestive Diseases Center
+    Zhenyuan Road, Shenzhen, 518107, Guangdong, China.
 
-2.  Department of Gastrointestinal Surgery, the First Affiliated
+2.  Department of Gastrointestinal Surgery, The First Affiliated
     Hospital of Sun Yat-sen University, 58 Zhongshan 2nd Road, Guangzhou
     510080, Guangdong, People’s Republic of China.
 
@@ -70,7 +69,8 @@ Calling a specific model, just:
 -   Fork `luckyModel` and make sure you can do somethings like clone,
     commit, and push.
 
--   Save your model in the local repository of the `luckyModel` package.
+-   Save your model in the local repository of the `luckyModel` package
+    (The same path of `README.md`).
 
 <!-- -->
 

@@ -25,7 +25,7 @@ save_model <- function(x,
   }
 
   # save .rds model
-  p <- paste0(model.path,'/',project,'/')
+  p <- paste0(model.path,'/inst/extdata/',project,'/')
   dir.create(p, showWarnings = F, recursive = T)
   model.name <- paste0(p, model, '_', developer,'_',version,'.rds')
   saveRDS(x, file = model.name)
