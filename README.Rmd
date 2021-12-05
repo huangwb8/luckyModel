@@ -77,9 +77,9 @@ names(model)
 
 ## :bowtie: Contribute your model
 
-1. Fork `luckyModel` and make sure you can do somethings like clone, commit, and push.
++ Fork `luckyModel` and make sure you can do somethings like clone, commit, and push.
 
-2. Save your model in the local repository of the `luckyModel` package.
++ Save your model in the local repository of the `luckyModel` package.
 
 ```{r, eval=FALSE}
 save_model(x = <Your model>,
@@ -90,8 +90,8 @@ save_model(x = <Your model>,
            version = <Your model version>)
 ```
 
-3. Push to your branch
++ Push to your branch
 
-4. Merge to `master` after audit
++ Merge to `master` after audit
 
 

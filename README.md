@@ -67,10 +67,10 @@ Calling a specific model, just:
 
 ## :bowtie: Contribute your model
 
-1.  Fork `luckyModel` and make sure you can do somethings like clone,
+-   Fork `luckyModel` and make sure you can do somethings like clone,
     commit, and push.
 
-2.  Save your model in the local repository of the `luckyModel` package.
+-   Save your model in the local repository of the `luckyModel` package.
 
 <!-- -->
 
@@ -81,6 +81,6 @@ Calling a specific model, just:
                developer = <Your name>,
                version = <Your model version>)
 
-1.  Push to your branch
+-   Push to your branch
 
-2.  Merge to `master` after audit
+-   Merge to `master` after audit
