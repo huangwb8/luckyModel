@@ -9,10 +9,7 @@
 <a href="https://github.com/huangwb8/luckyModel/issues"><img src="https://img.shields.io/github/issues-raw/huangwb8/luckyModel"></a>
 </p>
 
-### Bioinformatic model of third-party lucky series packages
-
-Model ensemble for third-party lucky series, such
-[**GSClassifier**](https://github.com/huangwb8/GSClassifier)
+### Model ensemble for third-party lucky series, such [**GSClassifier**](https://github.com/huangwb8/GSClassifier)
 
 ## :alien: Authors
 
@@ -37,7 +34,7 @@ Weibin Huang (黄伟斌); <654751191@qq.com>
     if (!requireNamespace("luckyModel", quietly = TRUE))
         devtools::install_github("huangwb8/luckyModel")
 
-## :seedling: Usage
+## :seedling: Common usage
 
 Load the pacakge
 
@@ -67,3 +64,23 @@ Calling a specific model, just:
     names(model)
 
     ## [1] "ens"            "scaller"        "geneAnnotation" "geneSet"
+
+## :bowtie: Contribute your model
+
+1.  Fork `luckyModel` and make sure you can do somethings like clone,
+    commit, and push.
+
+2.  Save your model in the local repository of the `luckyModel` package.
+
+<!-- -->
+
+    save_model(x = <Your model>,
+               model.path = <local repository>,
+               project = <Your project name>,
+               model = <Your model name>,
+               developer = <Your name>,
+               version = <Your model version>)
+
+1.  Push to your branch
+
+2.  Merge to `master` after audit

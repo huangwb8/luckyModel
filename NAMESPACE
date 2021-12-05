@@ -3,3 +3,4 @@
 export(list_model)
 export(list_project)
 export(lucky_model)
+export(save_model)
