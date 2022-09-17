@@ -1,7 +1,7 @@
 Package: luckyModel
 Type: Package
 Title: Bioinformatic model of third-party lucky series packages
-Version: 0.1.0
+Version: 0.1.1
 Authors@R:
     person(given = "Weibin",
            family = "Huang",
