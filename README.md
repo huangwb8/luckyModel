@@ -13,7 +13,7 @@
 
 ## :alien: Authors
 
-Weibin Huang (黄伟斌); <huangwb886@gmail.com>
+Weibin Huang (黄伟斌); <hwb2012@qq.com>
 
 1.  Guangdong Provincial Key Laboratory of Digestive Cancer Research,
     The Seventh Affiliated Hospital of Sun Yat-sen University, No. 628
