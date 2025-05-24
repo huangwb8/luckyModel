@@ -71,7 +71,7 @@ Calling a specific model, just:
 model <- lucky_model(project = 'GSClassifier',
                     developer='HWB',
                     model = 'PAD',
-                    version = 'v20200110')
+                    version = 'v20250523')
 names(model)
 ```
 
