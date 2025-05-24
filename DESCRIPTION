@@ -13,4 +13,4 @@ Description: Bioinformatic model of third-party packages, such as GSClassifier.
 License: MIT
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.3.1
