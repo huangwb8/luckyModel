@@ -42,17 +42,19 @@ Load the pacakge
 Which projects were supported in current `luckyModel`?
 
     list_project()
-    
+
     ## [1] "GSClassifier"
 
 Explore models in a project, just:
 
     list_model(project='GSClassifier')
-    
+
     ## Available models in GSClassifier:
-    
+
     ##   *Gibbs_PanCancerImmuneSubtype_v20190731
-    ##   *HWB_PAD_v20200110
+    ##   *hwb_PAD_v20200110
+    ##   *HWB_PAD_v20220916
+    ##   *HWB_PAD_v20250523
 
 Calling a specific model, just:
 
@@ -61,7 +63,7 @@ Calling a specific model, just:
                         model = 'PAD',
                         version = 'v20250523')
     names(model)
-    
+
     ## [1] "ens"            "scaller"        "geneAnnotation" "geneSet"
 
 ## :bowtie: Contribute your model
